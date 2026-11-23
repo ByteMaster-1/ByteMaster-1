@@ -10,4 +10,4 @@ Product Engineer at UnifyApps. I build realtime voice AI agents and the platform
 
 [All my merged LiveKit PRs](https://github.com/livekit/agents/pulls?q=is%3Apr+author%3AByteMaster-1+is%3Amerged)
 
-**Links:** [Resume](https://drive.google.com/file/d/1IuqTNfQ8Ky-dmQN4mQkrXlP4DWh96hd_/view) · [LinkedIn](https://www.linkedin.com/in/areeb-khan-5b7099247/) · mdareebkhan687@gmail.com
+**Links:** [Resume](https://drive.google.com/file/d/10VSQEXXpUQpePcndLrXV550MFUiLNqCj/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/areeb-khan-5b7099247/) · mdareebkhan687@gmail.com
